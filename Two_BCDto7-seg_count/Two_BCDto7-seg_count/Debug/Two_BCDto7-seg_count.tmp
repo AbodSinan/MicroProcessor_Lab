@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\HotShot\Desktop\Program Examples\Atmel Studio\Two_BCDto7-seg_count\Two_BCDto7-seg_count\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\HotShot\Desktop\Program Examples\Atmel Studio\Two_BCDto7-seg_count\Two_BCDto7-seg_count\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\HotShot\Desktop\Program Examples\Atmel Studio\Two_BCDto7-seg_count\Two_BCDto7-seg_count\Debug\Two_BCDto7-seg_count.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Two_BCDto7-seg_count.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Two_BCDto7-seg_count.map</FILE>
+  <FILE>Two_BCDto7-seg_count.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\HotShot\Desktop\Program Examples\Atmel Studio\Two_BCDto7-seg_count\Two_BCDto7-seg_count\main.asm</FILE><LINE>3</LINE></start>
+  <loop2><FILE>C:\Users\HotShot\Desktop\Program Examples\Atmel Studio\Two_BCDto7-seg_count\Two_BCDto7-seg_count\main.asm</FILE><LINE>9</LINE></loop2>
+  <loop1><FILE>C:\Users\HotShot\Desktop\Program Examples\Atmel Studio\Two_BCDto7-seg_count\Two_BCDto7-seg_count\main.asm</FILE><LINE>11</LINE></loop1>
+  <DELAY_ONE_SEC><FILE>C:\Users\HotShot\Desktop\Program Examples\Atmel Studio\Two_BCDto7-seg_count\Two_BCDto7-seg_count\main.asm</FILE><LINE>26</LINE></DELAY_ONE_SEC>
+  <L0><FILE>C:\Users\HotShot\Desktop\Program Examples\Atmel Studio\Two_BCDto7-seg_count\Two_BCDto7-seg_count\main.asm</FILE><LINE>34</LINE></L0>
+  <L1><FILE>C:\Users\HotShot\Desktop\Program Examples\Atmel Studio\Two_BCDto7-seg_count\Two_BCDto7-seg_count\main.asm</FILE><LINE>35</LINE></L1>
+  <L2><FILE>C:\Users\HotShot\Desktop\Program Examples\Atmel Studio\Two_BCDto7-seg_count\Two_BCDto7-seg_count\main.asm</FILE><LINE>36</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
